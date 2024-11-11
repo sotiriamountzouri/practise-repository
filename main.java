@@ -7,5 +7,6 @@ public class askisi{
     System.out.println("t8230083");
     System.out.println("t8230170");
     System.out.println("t8230138");
+    System.out.println("t8230012");
   }
 }
